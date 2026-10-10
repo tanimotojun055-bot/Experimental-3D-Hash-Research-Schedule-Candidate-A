@@ -1449,9 +1449,14 @@ Version 1
 Current Draft
 
 
-謝辞
 
-この開発には、openAIのGPTを活用しています。
+謝辞（Acknowledgements）
+
+本研究「Web4・3Dハッシュ・Curved Spacetime Cryptography」は、OpenAIのChatGPT（GPTシリーズ）の技術的支援を受けて研究開発を進めています。
+
+特に、一般相対性理論に基づく数学的検討、テンソル計算、アルゴリズム設計、プログラム開発、技術文書の作成において、ChatGPTの協力を得ています。
+
+OpenAIおよびChatGPTの開発に携わる皆様に、深く感謝申し上げます。
 
 
 

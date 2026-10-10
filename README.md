@@ -1449,4 +1449,9 @@ Version 1
 Current Draft
 
 
+謝辞
+
+この開発には、openAIのGPTを活用しています。
+
+
 
